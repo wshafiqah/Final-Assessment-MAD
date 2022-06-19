@@ -14,15 +14,20 @@ This whole post-pandemic situation makes people want to do outdoor activities an
 - To develop a dessert ordering system that calculate the total price and display the receipt for the user make the payment
 
 ### Function and Features
-1. Login
+1. Login:
+
     Users are needed to put their username and their password. During this action, we decided to use a database from Firebase.
-2. Menu
+2. Menu:
+
     Users get to browse through the list of menus in the shop with the details of cake ingredients and price for each slice.
-3. Add order
+3. Add order:
+
     The user will be able to add the menu into their order list. 
-4. Discard order
+4. Discard order:
+
     Users can delete the menu from their order list if they want to change their choices. 
-5. Receipt/Total Page
+5. Receipt/Total Page:
+
     Once the user confirms with their order, they will be needed to proceed to payment and this is where the calculation happens and the user will be displayed with the      total payment that they need to pay at the counter. 
 
 ### Conclusion
