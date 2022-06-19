@@ -1,10 +1,10 @@
 # Final-Assessment-MAD
 
-## H1 Proposal
+## Proposal
 
-## H2 Introduction
+### Introduction
 
-## H2 Objective
+### Objective
 
-## H2 Function and Features
+### Function and Features
 
