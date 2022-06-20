@@ -1,5 +1,8 @@
 # Final-Assessment-MAD
 
+Wan Nor Shafiqah binti Wan Ali 1916262 
+Nur afiqah binti mat hassan
+
 ## Proposal
 
 ### SweetDesserts Application
