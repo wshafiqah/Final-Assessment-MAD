@@ -37,3 +37,7 @@ This whole post-pandemic situation makes people want to do outdoor activities an
 
 ### Conclusion
 Using mobile devices to place orders can help to bring in improvement sales and customers when they are ordering the food either they dine in or take away. The dessert ordering system will help the customers  to reduce the need to queue up at the counter to order the food and take them. With the system, the customers can easily order the dessert at the table and wait for their services from the restaurants. Thus, this proposed system is developed in order to improve the current food ordering system.
+
+###Sequential Diagram
+
+###Reference
