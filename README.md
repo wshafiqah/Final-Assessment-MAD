@@ -7,10 +7,6 @@
 ### Introduction
 
 Everyone has a list of tasks that they want to complete or wish to achieve within a period of time. Some people are doing their task impromptu and some of them are very composed in the arrangement of their daily activities. From this situation, we are inspired to develop a neat to-do list application that will help these people to stay organized with their daily life activities. This application is going to help the user to list down all the personal activities that they want to accomplish, assist in listing out their shopping list and also can cooperate with holding on to their wishlist. Users can use this application anywhere and anytime that they want to freely. 
- 
-This whole post-pandemic situation makes people want to do outdoor activities and dine-in eating at restaurants or cafes more after isolating themselves for this past previous year. To help reduce the time for choosing while queuing at the counter, this application that we want to propose hopefully will be able to give comfortability for both customers in the store and the shop owners equally. This application can be used by the user from their respective table in the shop for them to choose the menu and after they receive their order confirmation which is the total payment they are needed to pay, they will go directly to the counter to settle the bill via cash payment.   
-
-Even before this whole pandemic situation, people are always try to complete a pile of tasks daily or within a set of time period. Some people are doing their task impromptu and some of them are very composed in the arrangement of their daily activities. From this situation, we are inspired to develop a neat to-do list application that will help these people to stay organised with their daily life activities. This application is going to help the user to list down all the personal activities that they want to accomplish, assist in listing out their shopping list and also can cooperate with holding on to their wishlist. 
 
 
 ### Objective
