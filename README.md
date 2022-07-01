@@ -52,5 +52,5 @@ smudged the handwriting on the paper while trying to complete the list. In other
 Hence, this proposed system is developed in order to improve the user productivity in solving their daily tasks and keep them planned for the user to finish up. 
 
 ### Sequential Diagram
-![] (images/Sequential Diagram Routine.png)
+![] (Sequential Diagram Routine.png)
 ### Reference
