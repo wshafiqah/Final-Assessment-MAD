@@ -2,9 +2,9 @@
 
 ## PROPOSAL 
 
-##My Routine Application
+## My Routine Application
 
-###Introduction
+### Introduction
 
 Everyone has a list of tasks that they want to complete or wish to achieve within a period of time. Some people are doing their task impromptu and some of them are very composed in the arrangement of their daily activities. From this situation, we are inspired to develop a neat to-do list application that will help these people to stay organized with their daily life activities. This application is going to help the user to list down all the personal activities that they want to accomplish, assist in listing out their shopping list and also can cooperate with holding on to their wishlist. Users can use this application anywhere and anytime that they want to freely. 
  
@@ -13,7 +13,7 @@ This whole post-pandemic situation makes people want to do outdoor activities an
 Even before this whole pandemic situation, people are always try to complete a pile of tasks daily or within a set of time period. Some people are doing their task impromptu and some of them are very composed in the arrangement of their daily activities. From this situation, we are inspired to develop a neat to-do list application that will help these people to stay organised with their daily life activities. This application is going to help the user to list down all the personal activities that they want to accomplish, assist in listing out their shopping list and also can cooperate with holding on to their wishlist. 
 
 
-###Objective
+### Objective
 
 - To develop a listing system that enables the users to login the application using their username and password.
 - To develop a listing system that enables the users to list down their tasks that they want to accomplish within a set of time that they want to complete it.
@@ -21,7 +21,7 @@ Even before this whole pandemic situation, people are always try to complete a p
 - To develop a listing system that can update the listed task whenever the user wants to.
 
 
-###Function and Features
+### Function and Features
 
 1. Login
 
@@ -51,6 +51,6 @@ The routine list application will be able to reduce the traditional approach of 
 smudged the handwriting on the paper while trying to complete the list. In other words, the application will work as a mobile sticky note of a to-do list for the user. 
 Hence, this proposed system is developed in order to improve the user productivity in solving their daily tasks and keep them planned for the user to finish up. 
 
-###Sequential Diagram
+### Sequential Diagram
 
 ### Reference
